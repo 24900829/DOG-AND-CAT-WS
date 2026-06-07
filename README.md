@@ -1,6 +1,6 @@
 # Cat vs Dog vs Panda — Image Classification using Transfer Learning
 
-**Author:** KAVIBHARATHI K  
+**Name:** KAVIBHARATHI K  
 **Reg No:** 212224220045
 
 ---
